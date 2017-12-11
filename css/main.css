@@ -1,0 +1,43 @@
+.mainImgLayout {font-size: 15px; }
+.upsideMenu1:hover{background-color: gray;}
+	.wrapper{ width:80%; height:900px; background-color: #dddddd; margin:auto;}
+		
+		.mainImgLayout { width:100%; height:7%; }
+			.mainLogoImgs {width: 30%; height: 100%; float: left; }
+			.memberBtns {width: 30%; height: 100%; float: right; padding-right: 20px; }
+				.FnQ {width:33%; height:30%; float: right;}
+				.JoinMembership {width:33%; height:30%; float: right;}
+				.Login {width:33%; height:30%; float: right; }
+		
+		.abc { width:100%; height:7%; background-color: ivory; }
+			.navBarMenus {width: 80%; height: 100%; background-color: ivory; margin:auto; }
+				.upsideMenu1 {width:10%; height:100%; float: left; }
+				
+		.def { width:100%; height:30%; }
+		
+		.ghi { width:100%; height:13%; }
+			.navBarMenus2 {width: 80%; height: 100%; margin:auto; }
+				.smenu1 {width:12.5%; height:100%; float: left; }
+				.smenu2 {width:12.5%; height:100%; float: left; }
+				.smenu3 {width:12.5%; height:100%; float: left; }
+				.smenu4 {width:12.5%; height:100%; float: left; }
+				.smenu5 {width:12.5%; height:100%; float: left; }
+				.smenu6 {width:12.5%; height:100%; float: left; }
+				.smenu7 {width:12.5%; height:100%; float: left; }
+				.smenu8 {width:12.5%; height:100%; float: left; }
+		
+		.jkl { width:100%; height:34%; }
+			.navBarMenus3 {width: 100%; height: 100%; margin:auto; }
+				.adBarMenus {width:50%; height:100%; float: left; }
+				.adBarMenus2 {width:50%; height:100%; float: left; }
+					.quarterMenu1 {width:50%; height:50%; float: left; }
+					.quarterMenu2 {width:50%; height:50%; float: left; }
+					.quarterMenu3 {width:50%; height:50%; float: left; }
+					.quarterMenu4 {width:50%; height:50%; float: left; }	
+		
+		.nop { width:100%; height:10%; background-color: green; margin: auto; }
+			.Information1 {width:100%; height:33%; background-color: green; }
+			.Information2 {width:100%; height:33%; background-color: green; }
+			.Information3 {width:100%; height:33%; background-color: green; }}
+}
+}
